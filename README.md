@@ -16,22 +16,22 @@
 ![so5](https://github.com/user-attachments/assets/bbc5a956-bb46-46ac-b71f-e5ad87f15f98)
 
 # 6. Urutkan kalimat berikut :  
-# Jakarta  
-# Bandung  
-# Surabaya  
-# Padang  
-# Palembang  
-# Lampung  
-# Dengan menggunakan notasi here document (<@@@ …@@@) 
+     Jakarta  
+     Bandung  
+     Surabaya  
+     Padang  
+     Palembang  
+     Lampung  
+     Dengan menggunakan notasi here document (<@@@ …@@@) 
 ![so6](https://github.com/user-attachments/assets/425090bd-1fd7-44e3-b7ad-2efdded662d0)
 
 # 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru. 
 ![so7](https://github.com/user-attachments/assets/74ee542d-83f1-4ba8-8220-f2340473463f)
 
 # 8. Gunakan perintah di bawah ini dan perhatikan hasilnya. 
-# $ cat /etc/passwd | sort | pr –n | grep tty03  
-# $ find /etc –print | head  
-# $ head /etc/passwd | tail –5 | sort 
+     $ cat /etc/passwd | sort | pr –n | grep tty03  
+     $ find /etc –print | head  
+     $ head /etc/passwd | tail –5 | sort 
 ![so8](https://github.com/user-attachments/assets/421ff33d-af2b-4dae-b87a-351af2fd51b7)
 
 # 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.  
