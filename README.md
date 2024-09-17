@@ -96,4 +96,4 @@ Penjelasam:
 - 'sort' mengurutkan output dari who.
 - 'pr' memformat output menjadi kolom-kolom.
 - 'head' mengambil 10 baris pertama dari hasil yang diformat.
-- 'cat | tail' mengambil 10 baris terakhir (atau lebih jika diubah) dari output sebelumnya.
+- 'cat' | 'tail' mengambil 10 baris terakhir (atau lebih jika diubah) dari output sebelumnya.
