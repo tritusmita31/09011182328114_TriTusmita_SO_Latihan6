@@ -91,9 +91,9 @@ Output:
 ![so9](https://github.com/user-attachments/assets/498dd06e-c080-4efe-ac41-2fc1aacc27fd)
 
 Penjelasam:
--  who menampilkan siapa yang sedang login ke sistem.
-- Dua kali cat tidak mengubah output apapun.
-- sort mengurutkan output dari who.
-- pr memformat output menjadi kolom-kolom.
-- head mengambil 10 baris pertama dari hasil yang diformat.
-- cat | tail mengambil 10 baris terakhir (atau lebih jika diubah) dari output sebelumnya.
+-  'who' menampilkan siapa yang sedang login ke sistem.
+- Dua kali 'cat' tidak mengubah output apapun.
+- 'sort' mengurutkan output dari who.
+- 'pr' memformat output menjadi kolom-kolom.
+- 'head' mengambil 10 baris pertama dari hasil yang diformat.
+- 'cat | tail' mengambil 10 baris terakhir (atau lebih jika diubah) dari output sebelumnya.
