@@ -6,7 +6,6 @@
 Perintah ls -l menampilkan daftar file dan direktori. Simbol > digunakan untuk mengalihkan output ke file baru bernama daftar_direktori.txt. 
 Daftar file dan direktori dari direktori aktif akan tersimpan dalam daftar_direktori.txt.
 
-![file urut](https://github.com/user-attachments/assets/9c3e6455-40af-47cd-ae44-2788842268d3)
 ![file baru](https://github.com/user-attachments/assets/6372fbd8-7495-43cb-8cde-48084fa0914c)
 
 
@@ -23,6 +22,8 @@ Perintah sort digunakan untuk mengurutkan isi file. Simbol < mengarahkan file da
 
 Outputnya :
 Isi dari daftar_direktori.txt akan diurutkan dan ditampilkan di layar.
+
+![file urut](https://github.com/user-attachments/assets/9c3e6455-40af-47cd-ae44-2788842268d3)
 
 # 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut. 
 ![so4](https://github.com/user-attachments/assets/54312381-1433-4af0-8c9e-95059ff3ddb7)
