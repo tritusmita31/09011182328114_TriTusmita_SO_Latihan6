@@ -6,6 +6,10 @@
 Perintah ls -l menampilkan daftar file dan direktori. Simbol > digunakan untuk mengalihkan output ke file baru bernama daftar_direktori.txt. 
 Daftar file dan direktori dari direktori aktif akan tersimpan dalam daftar_direktori.txt.
 
+![file urut](https://github.com/user-attachments/assets/9c3e6455-40af-47cd-ae44-2788842268d3)
+![file baru](https://github.com/user-attachments/assets/6372fbd8-7495-43cb-8cde-48084fa0914c)
+
+
 # 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
 ![so2](https://github.com/user-attachments/assets/4bcea3d6-d9b1-464c-836f-07f4eff01539)
 
